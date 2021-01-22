@@ -1,0 +1,28 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/Code/jlw/demo" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/backend" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-middleware/gateway-server" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-parent/platform-common" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/activity-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/data-transfer-server" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/exhibition-service" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/harbor-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/lexamix-service" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/mall-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/payment-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/sinap-service" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/socket-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/user-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/vote-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/website-provider" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/三版/platform-server/website-ui" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/二版/java-jlw-core" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/jlw/二版/java-jlw-mall" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/mycode/IdeaWorkspace/project/phone_mall" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/mycode/IdeaWorkspace/test/springboot_demo" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/test/generator-master" startUpFlag="FIRST" />
+    <entry projectPath="E:/Code/test/quarkus_demo" startUpFlag="FIRST" />
+  </component>
+</application>
