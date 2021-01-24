@@ -1,0 +1,120 @@
+<templateSet group="mytemp">
+  <template name="*c" value="*&#10; * @Author: BaiXinxiang&#10; * @Date: $DATE$ $TIME$&#10; * @Description: $END$&#10; */" shortcut="ENTER" description="类头注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*m" value="*&#10; * $END$&#10; * @Author: BaiXinxiang&#10; * @Date: $DATE$ $TIME$&#10; */" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*mm" value="*&#10; * $END$&#10; * @Author: BaiXinxiang&#10; * @Date: $DATE$ $TIME$ &#10; $PARAMS$&#10; * @return $RETURNS$&#10; */" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMS" expression="" defaultValue="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+='* @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n ': '')}; return result&quot;, methodParameters())" alwaysStopAt="false" />
+    <variable name="RETURNS" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private Integer $END$;" description="private Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="private Long $END$;" description="private Long" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String $END$;" description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void test$END$(){&#10;}" description="@Test测试方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    &#10;} catch (Exception e) {&#10;    log.info(&quot;$END$&quot;, e);&#10;}" description="try-catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trycf" value="try {&#10;    &#10;} catch (Exception e) {&#10;    log.info(&quot;$END$&quot;, e);&#10;} finally {&#10;            &#10;}" description="try-catch-finally" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repl" value="return new PlatFormResponse&lt;&gt;(PlatFormBeanCopyUtil.sourceListToTargetList($EXPR$, $END$.class));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repp" value="return new PlatFormResponse&lt;&gt;(PlatFormBeanCopyUtil.sourcePageToTargetPage($EXPR$, $END$.class));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repe" value="return new PlatFormResponse&lt;&gt;(PlatFormBeanCopyUtil.entityToModel($EXPR$, $END$.class));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rep" value="return new PlatFormResponse&lt;&gt;($EXPR$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="copy" value="PlatFormBeanCopyUtil.entityToModel($EXPR$, $END$.class)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="copyl" value="PlatFormBeanCopyUtil.sourceListToTargetList($EXPR$, $END$.class);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="copyp" value="PlatFormBeanCopyUtil.sourcePageToTargetPage($EXPR$, $END$.class)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repjp" value="return new PlatFormResponse&lt;&gt;(JSONObject.parseObject(JSON.toJSONString($EXPR$), new TypeReference&lt;PageInfo&lt;$END$&gt;&gt;() {&#10;}));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repj" value="return new PlatFormResponse&lt;&gt;(JSON.parseObject(JSON.toJSONString($EXPR$), $END$.class));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="repjl" value="return new PlatFormResponse&lt;&gt;(JSON.parseArray(JSON.toJSONString($EXPR$), $END$.class));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="thrp" value="throw new PlatFormBizException(PlatformResponseCodeEnum.BUSINESS_ERROR, &quot;$END$&quot;);" description="抛出业务异常" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
