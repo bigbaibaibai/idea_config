@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="698" />
-    <option name="newTranslationDialogWidth" value="1335" />
+    <option name="newTranslationDialogWidth" value="1333" />
     <option name="newTranslationDialogX" value="2462" />
     <option name="newTranslationDialogY" value="71" />
     <histories>
+      <item value="MANAGE" />
       <item value="beautiful" />
       <item value="漂亮" />
       <item value="可抽奖&#10;" />
@@ -55,7 +56,6 @@
       <item value="工程" />
       <item value="bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'case&#10;" />
       <item value="voice" />
-      <item value="voi" />
     </histories>
     <option name="languageScores">
       <map>
