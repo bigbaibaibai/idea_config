@@ -1,6 +1,8 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Code/demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/Code/mall-provider" startUpFlag="FIRST" />
     <entry projectPath="E:/Code/jlw/demo" startUpFlag="FIRST" />
     <entry projectPath="E:/Code/jlw/三版/backend" startUpFlag="FIRST" />
     <entry projectPath="E:/Code/jlw/三版/platform-middleware/gateway-server" startUpFlag="FIRST" />
