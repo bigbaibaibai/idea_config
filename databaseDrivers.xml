@@ -6,6 +6,9 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="db2.11">
       <option name="auto-sync" value="false" />
     </driver>
@@ -66,7 +69,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL ConnectorJ/5.1.47/mysql-connector-java-5.1.47.jar</url>
+        <url>file://D:/Devinstall/Maven/Repertory/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar</url>
       </library>
     </driver>
     <driver id="mysql">
@@ -80,6 +83,10 @@
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.19">
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="true" />
