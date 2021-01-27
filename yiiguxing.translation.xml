@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="105" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="开始&#10;" />
       <item value="transmit" />
       <item value="寄送" />
       <item value="ji" />
@@ -55,7 +56,6 @@
       <item value="游戏&#10;" />
       <item value="小游戏&#10;" />
       <item value="access_token missing rid:" />
-      <item value="工程" />
     </histories>
     <option name="languageScores">
       <map>
