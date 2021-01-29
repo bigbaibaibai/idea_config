@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="698" />
-    <option name="newTranslationDialogWidth" value="1333" />
-    <option name="newTranslationDialogX" value="2462" />
-    <option name="newTranslationDialogY" value="71" />
+    <option name="newTranslationDialogHeight" value="623" />
+    <option name="newTranslationDialogWidth" value="1331" />
+    <option name="newTranslationDialogX" value="107" />
+    <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="business card" />
+      <item value="business ca" />
+      <item value="business " />
+      <item value="business car" />
+      <item value="card" />
+      <item value="名片&#10;" />
+      <item value="ming" />
       <item value="MANAGE" />
       <item value="beautiful" />
       <item value="漂亮" />
@@ -49,13 +56,6 @@
       <item value="权重&#10;" />
       <item value="游戏参与者&#10;" />
       <item value="游戏参与者" />
-      <item value="参与者" />
-      <item value="游戏&#10;" />
-      <item value="小游戏&#10;" />
-      <item value="access_token missing rid:" />
-      <item value="工程" />
-      <item value="bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'case&#10;" />
-      <item value="voice" />
     </histories>
     <option name="languageScores">
       <map>
