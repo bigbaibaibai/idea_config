@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="623" />
-    <option name="newTranslationDialogWidth" value="1327" />
+    <option name="newTranslationDialogWidth" value="1323" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="支付凭证" />
+      <item value="凭证" />
+      <item value="凭证&#10;&#10;" />
       <item value="销量&#10;" />
       <item value="虚拟&#10;" />
       <item value="虚拟" />
@@ -53,9 +56,6 @@
       <item value="fa" />
       <item value="结束" />
       <item value="check" />
-      <item value="二维码&#10;" />
-      <item value="get" />
-      <item value="权重" />
     </histories>
     <option name="languageScores">
       <map>
