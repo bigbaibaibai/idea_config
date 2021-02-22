@@ -2115,6 +2115,11 @@
                       <FeaturePluginData displayName="插件" pluginName="Plugin DevKit" pluginId="DevKit" />
                     </value>
                   </entry>
+                  <entry key="ALIBABA_CLOUD_REMOTE_DEBUG_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Alibaba Cloud Remote Debug" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="AndroidJUnit">
                     <value>
                       <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -2197,7 +2202,7 @@
                   </entry>
                   <entry key="EDAS_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="EDAS_SERVERLESS_RUN_CONFIGURATION">

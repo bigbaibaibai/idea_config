@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="600" />
-    <option name="newTranslationDialogWidth" value="1319" />
+    <option name="newTranslationDialogWidth" value="1317" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="education" />
+      <item value="teaching" />
+      <item value="教学&#10;" />
       <item value="前端&#10;" />
       <item value="详情&#10;" />
       <item value="想i去那" />
@@ -53,9 +56,6 @@
       <item value="发布事件&#10;" />
       <item value="announcement" />
       <item value="公告&#10;" />
-      <item value="返回&#10;" />
-      <item value="fa" />
-      <item value="结束" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612070461335" />
+    <option name="lastTrimTime" value="1613965095390" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
