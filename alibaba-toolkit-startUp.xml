@@ -1,9 +1,11 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Code/activity-provider" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/business-provider" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/data-transfer-server" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/Code/harbor-provider" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/mall-provider" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/payment-provider" startUpFlag="FIRST" />
     <entry projectPath="D:/Code/platform-middleware" startUpFlag="FIRST" />
