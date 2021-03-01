@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="533" />
-    <option name="newTranslationDialogWidth" value="1309" />
+    <option name="newTranslationDialogWidth" value="1307" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="操作人&#10;" />
+      <item value="操作人" />
+      <item value="cao" />
       <item value="obverse" />
       <item value="反面" />
       <item value="fan" />
@@ -16,7 +19,6 @@
       <item value="remark" />
       <item value="Remark" />
       <item value="Remarks" />
-      <item value="操作人&#10;" />
       <item value="前端" />
       <item value="class" />
       <item value="班级&#10;" />
@@ -54,8 +56,6 @@
       <item value="重复中奖&#10;" />
       <item value="本身地址抽奖&#10;" />
       <item value="归属&#10;" />
-      <item value="所属&#10;" />
-      <item value="company Id" />
     </histories>
     <option name="languageScores">
       <map>
