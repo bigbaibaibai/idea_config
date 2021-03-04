@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="balance&#10;" />
+      <item value="bala" />
+      <item value="b" />
       <item value="操作者&#10;" />
       <item value="cao'zuo" />
       <item value="操作人" />
@@ -53,9 +56,6 @@
       <item value="摇一摇&#10;" />
       <item value="抽奖&#10;" />
       <item value="本身地址" />
-      <item value="可重复的&#10;" />
-      <item value="重复&#10;" />
-      <item value="重复中奖&#10;" />
     </histories>
     <option name="languageScores">
       <map>
