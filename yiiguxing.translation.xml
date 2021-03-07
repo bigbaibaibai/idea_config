@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="533" />
-    <option name="newTranslationDialogWidth" value="1303" />
+    <option name="newTranslationDialogHeight" value="524" />
+    <option name="newTranslationDialogWidth" value="1301" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="surplus" />
+      <item value="剩余&#10;" />
+      <item value="生育" />
+      <item value="shen" />
       <item value="balance&#10;" />
       <item value="bala" />
       <item value="b" />
@@ -52,10 +56,6 @@
       <item value="可抽奖&#10;" />
       <item value="使用数量&#10;" />
       <item value="使用" />
-      <item value="发奖&#10;" />
-      <item value="摇一摇&#10;" />
-      <item value="抽奖&#10;" />
-      <item value="本身地址" />
     </histories>
     <option name="languageScores">
       <map>
