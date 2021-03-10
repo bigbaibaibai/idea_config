@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="524" />
-    <option name="newTranslationDialogWidth" value="1291" />
+    <option name="newTranslationDialogWidth" value="1289" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="deploy" />
+      <item value="配置" />
       <item value="企业中台" />
       <item value="中台" />
       <item value="中台首页" />
@@ -54,8 +56,6 @@
       <item value="虚拟&#10;" />
       <item value="虚拟" />
       <item value="business card" />
-      <item value="business ca" />
-      <item value="business " />
     </histories>
     <option name="languageScores">
       <map>
