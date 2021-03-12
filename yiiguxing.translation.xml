@@ -1,11 +1,25 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="524" />
-    <option name="newTranslationDialogWidth" value="1283" />
+    <option name="newTranslationDialogHeight" value="520" />
+    <option name="newTranslationDialogWidth" value="1279" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="at&#10;" />
+      <item value="in&#10;" />
+      <item value="oi&#10;" />
+      <item value="o&#10;" />
+      <item value="of&#10;" />
+      <item value="off&#10;" />
+      <item value="off&#10;&#10;" />
+      <item value="set&#10;" />
+      <item value="set" />
+      <item value="启程" />
+      <item value="qi" />
+      <item value="bagyelo" />
+      <item value="bagye&#10;&#10;lo" />
+      <item value="bagyalo" />
       <item value="eli" />
       <item value="e" />
       <item value="vito" />
@@ -42,20 +56,6 @@
       <item value="facade" />
       <item value="正面" />
       <item value="名片正面" />
-      <item value="remar" />
-      <item value="remark" />
-      <item value="Remark" />
-      <item value="Remarks" />
-      <item value="前端" />
-      <item value="class" />
-      <item value="班级&#10;" />
-      <item value="education" />
-      <item value="teaching" />
-      <item value="教学&#10;" />
-      <item value="前端&#10;" />
-      <item value="详情&#10;" />
-      <item value="想i去那" />
-      <item value="支付凭证" />
     </histories>
     <option name="languageScores">
       <map>
