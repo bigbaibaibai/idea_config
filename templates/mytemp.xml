@@ -1,12 +1,12 @@
 <templateSet group="mytemp">
-  <template name="*c" value="*&#10; * @Author: BaiXinxiang&#10; * @Date: $DATE$ $TIME$&#10; * @Description: $END$&#10; */" shortcut="ENTER" description="类头注释" toReformat="false" toShortenFQNames="true">
+  <template name="*c" value="*&#10; * @Author: Byron Bai&#10; * @Date: $DATE$ $TIME$&#10; * @Description: $END$&#10; */" shortcut="ENTER" description="类头注释" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="*m" value="*&#10; * $END$&#10; * @Author: BaiXinxiang&#10; * @Date: $DATE$ $TIME$&#10; */" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
+  <template name="*m" value="*&#10; * $END$&#10; * @Author: Byron Bai&#10; * @Date: $DATE$ $TIME$&#10; */" shortcut="ENTER" description="方法注释" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
