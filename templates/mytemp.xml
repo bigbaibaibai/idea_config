@@ -70,7 +70,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="rep" value="return new PlatFormResponse&lt;&gt;($EXPR$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="rep" value="return new ResultData&lt;&gt;($EXPR$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
