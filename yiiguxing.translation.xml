@@ -2,10 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1253" />
+    <option name="newTranslationDialogWidth" value="1251" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="handle" />
+      <item value="处理&#10;" />
+      <item value="handel" />
+      <item value="han&#10;del" />
+      <item value="hanndel" />
+      <item value="han" />
+      <item value="hanl" />
+      <item value="hanle" />
+      <item value="提炼" />
+      <item value="process" />
+      <item value="chu" />
       <item value="MARKETING" />
       <item value="INITIATIVE" />
       <item value="Identification" />
@@ -45,17 +56,6 @@
       <item value="中台首页" />
       <item value="zhong'tai" />
       <item value="操作人" />
-      <item value="variability" />
-      <item value="rhombus" />
-      <item value="diamond" />
-      <item value="菱形&#10;" />
-      <item value="da" />
-      <item value="空格&#10;" />
-      <item value="surplus" />
-      <item value="剩余&#10;" />
-      <item value="生育" />
-      <item value="shen" />
-      <item value="balance&#10;" />
     </histories>
     <option name="languageScores">
       <map>
