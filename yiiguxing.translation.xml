@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1267" />
+    <option name="newTranslationDialogWidth" value="1261" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Identification&#10;" />
+      <item value="Identification" />
+      <item value="Terminal&#10;" />
+      <item value="encapsulate" />
       <item value="compile" />
       <item value="Tenant" />
       <item value="The authenticity of host 'git.ibaiqiu.com (112.65.124.30)' can't be established.&#10;ECDSA key fingerprint is SHA256:67JHTAlOUNg5KkYDAnzMY/NJZkk1NCxZ0HC18NPwmN4.&#10;" />
@@ -52,10 +56,6 @@
       <item value="bala" />
       <item value="b" />
       <item value="操作者&#10;" />
-      <item value="cao'zuo" />
-      <item value="操作人&#10;" />
-      <item value="cao" />
-      <item value="obverse" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616405092964" />
+    <option name="lastTrimTime" value="1616980645059" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
