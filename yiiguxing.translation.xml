@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1247" />
+    <option name="newTranslationDialogWidth" value="1245" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Fork  Join" />
+      <item value="ForkJoin" />
       <item value="Unsafe&#10;" />
       <item value="救护车&#10;" />
       <item value="医院&#10;" />
@@ -54,8 +56,6 @@
       <item value="vito" />
       <item value="don" />
       <item value="don&#10;" />
-      <item value="Atwood" />
-      <item value="deploy" />
     </histories>
     <option name="languageScores">
       <map>
