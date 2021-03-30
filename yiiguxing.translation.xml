@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1251" />
+    <option name="newTranslationDialogWidth" value="1249" />
     <option name="newTranslationDialogX" value="107" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="救护车&#10;" />
+      <item value="医院&#10;" />
       <item value="标识&#10;" />
       <item value="表示" />
       <item value="表示&#10;" />
@@ -54,8 +56,6 @@
       <item value="Atwood" />
       <item value="deploy" />
       <item value="配置" />
-      <item value="企业中台" />
-      <item value="中台" />
     </histories>
     <option name="languageScores">
       <map>
