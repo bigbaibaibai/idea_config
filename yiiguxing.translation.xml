@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1241" />
+    <option name="newTranslationDialogWidth" value="1239" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="verification" />
+      <item value="验证&#10;" />
+      <item value="验证码&#10;" />
       <item value="jenkins" />
       <item value="Fork  Join" />
       <item value="ForkJoin" />
@@ -53,9 +56,6 @@
       <item value="bagye&#10;&#10;lo" />
       <item value="bagyalo" />
       <item value="eli" />
-      <item value="e" />
-      <item value="vito" />
-      <item value="don" />
     </histories>
     <option name="languageScores">
       <map>
