@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1239" />
+    <option name="newTranslationDialogWidth" value="1237" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="Enginner" />
       <item value="verification" />
       <item value="验证&#10;" />
       <item value="验证码&#10;" />
@@ -55,7 +56,6 @@
       <item value="bagyelo" />
       <item value="bagye&#10;&#10;lo" />
       <item value="bagyalo" />
-      <item value="eli" />
     </histories>
     <option name="languageScores">
       <map>
