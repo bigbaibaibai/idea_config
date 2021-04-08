@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1233" />
+    <option name="newTranslationDialogWidth" value="1231" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="Data truncated for column 'member_level_code' at row 1" />
       <item value=" Communications link failure&#10;" />
       <item value="member" />
       <item value="Enginner" />
@@ -55,7 +56,6 @@
       <item value="set" />
       <item value="启程" />
       <item value="qi" />
-      <item value="bagyelo" />
     </histories>
     <option name="languageScores">
       <map>
