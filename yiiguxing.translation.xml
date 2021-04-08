@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1231" />
+    <option name="newTranslationDialogWidth" value="1229" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="member level duplicate limit" />
+      <item value="duplicate" />
+      <item value="重复&#10;" />
       <item value="Data truncated for column 'member_level_code' at row 1" />
       <item value=" Communications link failure&#10;" />
       <item value="member" />
@@ -53,14 +56,11 @@
       <item value="off&#10;" />
       <item value="off&#10;&#10;" />
       <item value="set&#10;" />
-      <item value="set" />
-      <item value="启程" />
-      <item value="qi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
       </map>
     </option>
