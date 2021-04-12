@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="demo.txt" type="AUTO_DETECTED" />
       <mapping pattern="baiqiu-mp40" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="text2" type="PLAIN_TEXT" />
