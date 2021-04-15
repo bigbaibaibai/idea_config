@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1217" />
+    <option name="newTranslationDialogWidth" value="1215" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="docking" />
+      <item value="do" />
+      <item value="d" />
       <item value="Prize" />
       <item value="tenant" />
       <item value="Member Level" />
@@ -53,9 +56,6 @@
       <item value="Terminal&#10;" />
       <item value="encapsulate" />
       <item value="compile" />
-      <item value="Tenant" />
-      <item value="The authenticity of host 'git.ibaiqiu.com (112.65.124.30)' can't be established.&#10;ECDSA key fingerprint is SHA256:67JHTAlOUNg5KkYDAnzMY/NJZkk1NCxZ0HC18NPwmN4.&#10;" />
-      <item value="deadline" />
     </histories>
     <option name="languageScores">
       <map>
