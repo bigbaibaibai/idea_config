@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="public" />
       <item value="docking" />
       <item value="do" />
       <item value="d" />
@@ -55,7 +56,6 @@
       <item value="Identification&#10;" />
       <item value="Terminal&#10;" />
       <item value="encapsulate" />
-      <item value="compile" />
     </histories>
     <option name="languageScores">
       <map>
