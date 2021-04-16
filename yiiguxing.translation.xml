@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1213" />
+    <option name="newTranslationDialogWidth" value="1211" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="This XML file does not appear to have any style information associated with it. The document tree is shown below.&#10;" />
       <item value="Discovery" />
       <item value="public" />
       <item value="docking" />
@@ -55,7 +56,6 @@
       <item value="Identification" />
       <item value="hub&#10;" />
       <item value="Identification&#10;" />
-      <item value="Terminal&#10;" />
     </histories>
     <option name="languageScores">
       <map>
