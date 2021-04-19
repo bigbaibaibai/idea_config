@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1195" />
+    <option name="newTranslationDialogWidth" value="1193" />
     <option name="newTranslationDialogX" value="111" />
     <option name="newTranslationDialogY" value="93" />
     <histories>
+      <item value="hex" />
       <item value="consumes" />
       <item value="Cynthia" />
       <item value="-Cynthia" />
@@ -55,7 +56,6 @@
       <item value="handel" />
       <item value="han&#10;del" />
       <item value="hanndel" />
-      <item value="han" />
     </histories>
     <option name="languageScores">
       <map>
