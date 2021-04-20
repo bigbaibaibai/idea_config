@@ -1,74 +1,58 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="520" />
-    <option name="newTranslationDialogWidth" value="1225" />
-    <option name="newTranslationDialogX" value="111" />
-    <option name="newTranslationDialogY" value="93" />
     <histories>
-      <item value="主题&#10;" />
-      <item value="猪头&#10;" />
-      <item value="red lips" />
-      <item value="member level duplicate limit" />
-      <item value="duplicate" />
-      <item value="重复&#10;" />
-      <item value="Data truncated for column 'member_level_code' at row 1" />
-      <item value=" Communications link failure&#10;" />
-      <item value="member" />
-      <item value="Enginner" />
-      <item value="verification" />
-      <item value="验证&#10;" />
-      <item value="验证码&#10;" />
-      <item value="jenkins" />
-      <item value="Fork  Join" />
-      <item value="ForkJoin" />
-      <item value="Unsafe&#10;" />
-      <item value="救护车&#10;" />
-      <item value="医院&#10;" />
-      <item value="标识&#10;" />
-      <item value="表示" />
-      <item value="表示&#10;" />
-      <item value="handle" />
-      <item value="处理&#10;" />
-      <item value="handel" />
-      <item value="han&#10;del" />
-      <item value="hanndel" />
-      <item value="han" />
-      <item value="hanl" />
-      <item value="hanle" />
-      <item value="提炼" />
-      <item value="process" />
-      <item value="chu" />
-      <item value="MARKETING" />
-      <item value="INITIATIVE" />
-      <item value="Identification" />
-      <item value="hub&#10;" />
-      <item value="Identification&#10;" />
-      <item value="Terminal&#10;" />
-      <item value="encapsulate" />
-      <item value="compile" />
-      <item value="Tenant" />
-      <item value="The authenticity of host 'git.ibaiqiu.com (112.65.124.30)' can't be established.&#10;ECDSA key fingerprint is SHA256:67JHTAlOUNg5KkYDAnzMY/NJZkk1NCxZ0HC18NPwmN4.&#10;" />
-      <item value="deadline" />
-      <item value="dead" />
-      <item value="at&#10;" />
-      <item value="in&#10;" />
-      <item value="oi&#10;" />
-      <item value="o&#10;" />
-      <item value="of&#10;" />
+      <item value="server" />
+      <item value="provider" />
+      <item value="cursor" />
+      <item value="Cursor" />
+      <item value="dirty" />
+      <item value="Tokenizer" />
+      <item value="transient" />
+      <item value="Ambiguous" />
+      <item value="suppress" />
+      <item value="Assignable" />
+      <item value="Wrapper" />
+      <item value="Plain" />
+      <item value="wrap" />
+      <item value="Executable" />
+      <item value="Actual" />
+      <item value="Unique" />
+      <item value="Generic" />
+      <item value="Declaration" />
+      <item value="Parameterized" />
+      <item value="Resolver" />
+      <item value="Bounds" />
+      <item value="declaring" />
+      <item value="Command" />
+      <item value="Disposable" />
+      <item value="Offset" />
+      <item value="Statment" />
+      <item value="FORWARD" />
+      <item value="FORWARD_ONLY" />
+      <item value="REUSE" />
+      <item value="Trigger" />
+      <item value="Alias" />
+      <item value="Fragments" />
+      <item value="Environment" />
+      <item value="Assistant" />
+      <item value="解析器" />
+      <item value="Subscriber" />
+      <item value="Subscription" />
+      <item value="常数" />
+      <item value="Constructor" />
+      <item value="注入" />
+      <item value="role" />
+      <item value="权限" />
+      <item value="chosen handler to execute, for type and/or instance evaluation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618190539388" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1618898031074" />
   </component>
 </application>
