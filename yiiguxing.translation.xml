@@ -1,74 +1,58 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="698" />
-    <option name="newTranslationDialogWidth" value="1333" />
-    <option name="newTranslationDialogX" value="2462" />
-    <option name="newTranslationDialogY" value="71" />
     <histories>
-      <item value="MANAGE" />
-      <item value="beautiful" />
-      <item value="漂亮" />
-      <item value="可抽奖&#10;" />
-      <item value="详情&#10;" />
-      <item value="使用数量&#10;" />
-      <item value="使用" />
-      <item value="发奖&#10;" />
-      <item value="摇一摇&#10;" />
-      <item value="抽奖&#10;" />
-      <item value="本身地址" />
-      <item value="可重复的&#10;" />
-      <item value="重复&#10;" />
-      <item value="重复中奖&#10;" />
-      <item value="本身地址抽奖&#10;" />
-      <item value="归属&#10;" />
-      <item value="所属&#10;" />
-      <item value="company Id" />
-      <item value="结果" />
-      <item value="reaul" />
-      <item value="reault" />
-      <item value="前端&#10;" />
-      <item value="list Announcement Fronted" />
-      <item value="前台&#10;" />
-      <item value="list Announcement Fortent前台&#10;" />
-      <item value="list Announcement Fortent" />
-      <item value="发布&#10;" />
-      <item value="hide&#10;" />
-      <item value="发布时间&#10;" />
-      <item value="发布" />
-      <item value="发布事件&#10;" />
-      <item value="announcement" />
-      <item value="公告&#10;" />
-      <item value="返回&#10;" />
-      <item value="fa" />
-      <item value="结束" />
-      <item value="check" />
-      <item value="二维码&#10;" />
-      <item value="get" />
-      <item value="权重" />
-      <item value="权重&#10;" />
-      <item value="游戏参与者&#10;" />
-      <item value="游戏参与者" />
-      <item value="参与者" />
-      <item value="游戏&#10;" />
-      <item value="小游戏&#10;" />
-      <item value="access_token missing rid:" />
-      <item value="工程" />
-      <item value="bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'case&#10;" />
-      <item value="voice" />
+      <item value="server" />
+      <item value="provider" />
+      <item value="cursor" />
+      <item value="Cursor" />
+      <item value="dirty" />
+      <item value="Tokenizer" />
+      <item value="transient" />
+      <item value="Ambiguous" />
+      <item value="suppress" />
+      <item value="Assignable" />
+      <item value="Wrapper" />
+      <item value="Plain" />
+      <item value="wrap" />
+      <item value="Executable" />
+      <item value="Actual" />
+      <item value="Unique" />
+      <item value="Generic" />
+      <item value="Declaration" />
+      <item value="Parameterized" />
+      <item value="Resolver" />
+      <item value="Bounds" />
+      <item value="declaring" />
+      <item value="Command" />
+      <item value="Disposable" />
+      <item value="Offset" />
+      <item value="Statment" />
+      <item value="FORWARD" />
+      <item value="FORWARD_ONLY" />
+      <item value="REUSE" />
+      <item value="Trigger" />
+      <item value="Alias" />
+      <item value="Fragments" />
+      <item value="Environment" />
+      <item value="Assistant" />
+      <item value="解析器" />
+      <item value="Subscriber" />
+      <item value="Subscription" />
+      <item value="常数" />
+      <item value="Constructor" />
+      <item value="注入" />
+      <item value="role" />
+      <item value="权限" />
+      <item value="chosen handler to execute, for type and/or instance evaluation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611541319415" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
+    <option name="lastTrimTime" value="1618898031074" />
   </component>
 </application>
